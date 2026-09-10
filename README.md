@@ -17,6 +17,7 @@
     <a href="mailto:vinodtungana6@gmail.com">
       <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
     </a>
+    <img src="https://komarev.com/ghpvc/?username=TunganaVinodKumar&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="Profile Views" />
   </p>
 
 </div>
@@ -97,12 +98,13 @@
 
 ---
 
-### 📊 GitHub Statistics
+### 📊 GitHub Activity & Statistics
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=TunganaVinodKumar&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Vinod's GitHub Stats" />
-  <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TunganaVinodKumar&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+  <img src="https://streak-stats.demolab.com/?user=TunganaVinodKumar&theme=tokyonight&hide_border=true" alt="Vinod's GitHub Streak" />
+  <br/><br/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=TunganaVinodKumar&theme=tokyonight" alt="Vinod's Profile Details" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=TunganaVinodKumar&theme=tokyonight" alt="Languages per Repo" />
 </div>
 
 ---
