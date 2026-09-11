@@ -3,7 +3,7 @@
   <h1>Hi there, I'm <a href="https://tunganavinodkumar.github.io/portfolio/">Tungana Vinod Kumar</a> 👋</h1>
 
   <p align="center">
-    <strong>Aspiring Java Developer | B.Tech CSE (AI & ML) '26 | Full-Stack & GenAI Builder</strong><br/>
+    <strong>Aspiring Java Developer | B.Tech Graduate in CSE (AI & ML) | Full-Stack & GenAI Builder</strong><br/>
     📍 Visakhapatnam, Andhra Pradesh, India
   </p>
 
@@ -26,10 +26,10 @@
 
 ### 👨‍💻 About Me
 
-- 🎓 **Education:** Pursuing B.Tech in **Computer Science & Engineering (AI & ML)** at **Raghu Engineering College** (2022 – 2026).
+- 🎓 **Education:** Completed B.Tech in **Computer Science & Engineering (AI & ML)** from **NSRIT (Autonomous)**, Visakhapatnam.
 - ☕ **Core Focus:** Aspiring **Java Developer** with solid hands-on experience in Object-Oriented Programming (OOP), Data Structures, MySQL, and scalable backend architecture.
 - 🚀 **Full-Stack & AI:** Experienced in building end-to-end applications with **FastAPI**, **React**, **Retrieval-Augmented Generation (RAG)**, **OCR pipelines**, and Machine Learning predictive models.
-- 🎯 **Actively Looking For:** Entry-level / Internship opportunities in **Java Development**, **Backend Engineering**, and **Full-Stack Software Development**.
+- 🎯 **Actively Looking For:** Entry-level / Full-Time opportunities in **Java Development**, **Backend Engineering**, and **Full-Stack Software Development**.
 
 ---
 
